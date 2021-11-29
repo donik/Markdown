@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Markdown"
+  s.name         = "GDKMarkdown"
   s.version      = "0.0.1"
-  s.summary      = "Markdown"
+  s.summary      = "GDKMarkdown"
   s.homepage     = "https://github.com/donik/Markdown"
   s.license      = "MIT"
 
